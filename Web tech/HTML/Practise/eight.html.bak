@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>All tags</title>
+	</head>
+	<body>
+		<h1>welcome to ammulu IT</h1>
+		<strong>strong tag means Bold tag</strong><br>
+		<em>emphasise in the scense font in italic style</em><br>
+		<mark>mark tag is used to highlate the txt</mark><br>
+		<del>del tag used to strike the content</del><br>
+		<pre>pre tag used to do the text in different color</pre><br>
+		<ins>ins tag used to give underline to the respective word</ins><br>
+		<marquee>marquee tag used to scroll the content</marquee> 
+	</body>
+</html>

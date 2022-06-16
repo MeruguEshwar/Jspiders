@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title>Document</title>
+		<script src="sec.js"></script>
+	</head>
+	<body>
+		
+		<form>
+			N1:<input id="ty" required><br><br>
+			N2:<input id="ty" required><br><br>
+
+			addition:<input type="radio" id="calculation" name="addition" value="addition">
+			Substraction:<input type="radio" id="calculation" name="Substraction" value="Substraction">
+			Multiplication:<input type="radio" id="calculation" name="Multiplication" value="Multiplication">
+			Divisable:<input type="radio" id="calculation" name="Divisable" value="Divisable"><br><br>
+		
+			<input type="submit" value="click" onclick="printUserName()">
+
+			
+		</form>
+
+	</body>
+</html>

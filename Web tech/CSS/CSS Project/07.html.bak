@@ -1,0 +1,67 @@
+<html>
+	<head>
+	<title>Document</title>
+	<link rel="Stylesheet" href="sev.css"></link>
+	</head>
+	<body>
+
+		<div style="height:30;
+					width:1400;
+					background-color:blue;">
+
+			<p5>TruYam </p5>
+			<p6 style="float:right; padding-left:50px;"><a href="08.html">Cart</a></p6>
+			<p6 style="float:right;padding-right:10px;"><a href="Menu.html">Menu</a></p6>
+				
+		</div>
+
+		<table>
+				
+				<h1>Cart</h1>
+				<a href="Menu.html">Menu</a>
+
+				<tr>
+					<td>Names</td>
+					<td>Free Delivery</td>
+					<td>Price</td>
+					<td> </td>
+		
+				</tr>
+				
+				<tr>
+					<td>Sandwich</td>
+					<td>Yes</td>
+					<td>Rs.99.00</td>
+					<td><a href="Delete.html">Delete</a></td>
+				</tr>
+
+				<tr>
+					<td>Burger</td>
+					<td>No</td>
+					<td>Rs.129.00</td>
+					<td><a href="Delete.html">Delete</a></td>
+				</tr>
+
+				<tr>	
+					<td>Pizza</td>
+					<td>No</td>
+					<td>Rs.149.00</td>
+					<td><a href="Delete.html">Delete</a></td>
+				</tr>
+
+				<tr>
+					<td></td>
+					<td><b>Total</b></td>
+					<td><b>Rs.377.00</b></td>
+					<td></td>
+				</tr>
+
+		</table>
+	
+		<div style="height:30;
+					width:1400;
+					background-color:grey;">
+			copyright
+		</div>
+	</body>
+</html>

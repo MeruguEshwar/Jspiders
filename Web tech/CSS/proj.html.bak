@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title>Nani it solutions</title>
+		<link rel="stylesheet" href="nani.css"></link>
+	</head>
+
+	<body>
+		
+		<div>
+			<a href="home.html">sample.text</a>
+			<a href="carrer.html">first.text</a>
+			<a href="support.html">ten.text</a>
+			<input type="text" place holder="search">
+			<a href="logout.html">second.text</a>
+		</div>
+	</body>
+</html>

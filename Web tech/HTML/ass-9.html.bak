@@ -1,0 +1,58 @@
+<html>
+	<head>
+		<title>ALL THE THINGS IN TABLE</title>
+	</head>
+	<body>
+		
+				ADD ON CARD WITH ALIGNMENT
+	<form>
+		<table>
+				<tr>
+						<td>CARD HOLDER NAME</td>
+						<td><input type="text"required placeholder="NAME" </td>
+				</tr>
+			
+					
+				<tr>
+						<td>CARD NUMBER</td>
+						<td><INPUT type="text" PLACEHOLDER="XXXX XXXX XXXX XXXX" 
+			required pattern="[0-9]{4}[ ]{1}[0-9]{4}[ ]{1}[0-9]{4}[ ]{1}[0-9]{4}"
+						title="Card no is 4digts only no characters are allowed"></td>
+				</tr>
+
+				<tr>
+						<td>CARD EXPIRE DATE</td>
+						<td><input type="" placeholder="MM/YY"></td>
+				</tr>
+
+				<tr>
+						<td>CARD CVV</td>
+						<td><input type="password"></td>
+				</tr>
+
+				<tr>
+						<td><input type="submit" value="ADD ON"></td>
+				</tr>
+
+
+				
+						
+					<tr>
+							<td>ENTER REG NO</td>
+							<td><input type=" "></td>
+					</tr>
+				
+					<tr>
+							<td>ENTER DATE OF BIRTH</td>
+							<td><input type=" "></td>
+					</tr>
+
+				
+
+
+
+		</table>
+
+	</form>
+	</body>
+</html>

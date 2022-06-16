@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+ </head>
+ <body>
+		<t>ADD ON CARD</t><br>
+		CARD HOLDER NAME: <input type="text" placeholder="name"><br>
+		
+		NUMBER: <input type="number"><br>
+
+		CARD EXPIRE DATE: <input =""><br>
+
+		CARD CVV: <input type=" "><br>
+
+		<input type="submit" value="login">
+	
+  
+ </body>
+</html>

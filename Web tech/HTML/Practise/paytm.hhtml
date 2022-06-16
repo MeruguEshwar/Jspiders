@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>Table practise</title>
+	</head>
+	<body>
+		<form>
+			<table>
+				<tr>
+					<input type="text" required placeholder="NUMBER">
+				</tr>
+
+				<tr>
+					<input type=" " placeholder="OPERATOR">
+				</tr>
+
+				<tr>
+					<input type="submit" value="Proceed">
+				</tr>
+			<table>
+		<form>
+	</body>
+</html>

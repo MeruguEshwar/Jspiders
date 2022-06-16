@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Patterns</title>
+ </head>
+ <body>
+ <form>
+	Name:<input type="text" placeholder="name"><br><br>
+	mail:<input type="text" placeholder="mail"><br><br>
+	Adhar:<input type="text" placeholder="XXXX XXXX XXXX"   pattern= "[0-9] {4} []
+														[0-9] {4} []
+														[0-9] {4}" title="Please enter the valid number"><br><br>
+	<input type="Submit" value="login">
+	</form>
+ </body>
+</html>

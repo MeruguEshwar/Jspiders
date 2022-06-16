@@ -1,0 +1,195 @@
+<html>
+	<head>
+		<title>Document</title>
+		<link rel="stylesheet" href="frt.css"></link>
+	</head>
+	<body>
+
+		<div class="boxed">
+			<div style="height:30px;
+						width:800px;
+						background-color:blue">
+					<h>ADMISSION DETAILS</h>
+			</div>
+			<table>
+				<tr>
+					<td id="nani">ADMNO</td>
+					<td>:</td>
+					<td>E16372l</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>HallTicket No</td>
+					<td>:</td>
+					<td>E16372l</td>
+				</tr>
+
+				<tr>
+					<td id="chinru">COURSE</td>
+					<td>:</td>
+					<td>CSE</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>Medium</td>
+					<td>:</td>
+					<td>English</td>
+				</tr>
+
+				<tr>
+					<td id="ammulu">YEAR</td>
+					<td>:</td>
+					<td>2ND</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>Second Language</td>
+					<td>:</td>
+					<td> </td>
+				</tr>
+
+				<tr>
+					<td id="lucky">SEM</td>
+					<td>:</td>
+					<td>1st</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>Joined Year</td>
+					<td>:</td>
+					<td>II</td>
+				</tr>
+
+				<tr>
+					<td id="dad">Section</td>
+					<td>:</td>
+					<td>A</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>Joined Date</td>
+					<td>:</td>
+					<td>17-AUG-17</td>
+				</tr>
+		</table>
+	</div>
+
+		<div class="aishu">
+			<div style="height:30px;
+						width:800px;
+						background-color:blue">
+					<h>ADMISSION DETAILS</h>
+			</div>
+
+
+		<table>
+				<tr>
+					<td id="nani">Student Name</td>
+					<td>:</td>
+					<td>Merugu Eshwar</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+
+				<tr>
+					<td id="chinru">Father Name</td>
+					<td>:</td>
+					<td>Merugu Gopikrishna</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>Father cell Number</td>
+					<td>:</td>
+					<td>6300773472</td>
+				</tr>
+
+				<tr>
+					<td id="ammulu">Mother Name</td>
+					<td>:</td>
+					<td>vijaya Laxmi</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>Identification Marks</td>
+					<td>:</td>
+					<td>A mole on the right neck</td>
+				</tr>
+
+				<tr>
+					<td id="lucky">Date Of Birth</td>
+					<td>:</td>
+					<td>04-08-1998</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>Region</td>
+					<td>:</td>
+					<td>II</td>
+				</tr>
+
+				<tr>
+					<td id="dad">Gender</td>
+					<td>:</td>
+					<td>M</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>Permanent Address</td>
+					<td>:</td>
+					<td>Bhupalapalli</td>
+				</tr>
+		</table>
+	</div>
+	</body>
+</html>

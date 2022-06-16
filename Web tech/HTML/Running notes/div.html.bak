@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title>div</title>
+	</head>
+	<body>
+			<div style="height:100;
+						width:1600; background-color:yellow">
+					Nav Bar <br><br>
+					<input type="submit" value="Home" align="center">
+					<input type="submit" value="Support">
+					<input type="submit" value="Carrer">
+					<input type="submit" value="Contact">
+					<input type="submit" value="Technology">
+			</div>
+
+			<div style="height:400;
+						width:1100; background-color:orange;float:left">
+					contents
+			</div>
+
+			<div style="height:400;
+						width:400; background-color:green;float:left">
+					Ads
+			</div>
+
+			<div>
+					Contact Info
+			</div>
+	</body>
+</html>

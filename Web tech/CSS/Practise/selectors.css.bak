@@ -1,0 +1,9 @@
+.nani{ color:blue }
+
+#mammu{ color:red }
+#mani{ color:green }
+
+h1{
+	font-size:20px
+
+}

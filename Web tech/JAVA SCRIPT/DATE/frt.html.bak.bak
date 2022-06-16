@@ -1,0 +1,10 @@
+<html>
+		<head>
+			<script src="frt.js"></script>
+		</head>
+		<body>
+
+			<input type="button" value="prompt Button" onclick="some1()">
+
+		</body>
+</html>

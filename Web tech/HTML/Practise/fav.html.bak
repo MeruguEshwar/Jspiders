@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<link rel="icon" href = "C:\Users\Bablu\Downloads\monitor.png"></link>
+		<title>Fav-icon</title>
+	</head>
+	<body>	personal details
+			Phone number:<input type="number"required placeholder="Phone number" pattern="[0-9]{10}" title="pls fill the numbers only"><br><br>
+
+			Passward:<input type="Passward" Placeholder="Passward"><br><br>
+
+			YEAR OF PASS:<input type="date"><br><br>
+
+			PASS TYPE:<input type="radio" value=>Regular<input type="radio">Supply<br><br>
+
+			CLICK:<input type="checkbox"><br><br>
+			<input type="submit" value="submit"><br><br>
+
+	</body>
+</html>

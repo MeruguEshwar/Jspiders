@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>JNTU APP</title>
+ </head>
+ <body>
+			JNTU RESULTS<br>
+			Enter Regno/Halticket NO: <input type="">
+			Enter Date Of Birth:<input type="">
+			<input type="submit" value="submit">
+			
+</body>
+</html>

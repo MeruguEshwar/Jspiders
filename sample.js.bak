@@ -1,0 +1,7 @@
+function nani()
+{
+	var user=document.getElementById("AB").value
+	var num=document.getElementById("AB").value
+		document.write("welcome"+user)
+		document.write(num)
+}

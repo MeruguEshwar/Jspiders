@@ -1,0 +1,35 @@
+<html>
+	<head>
+		<link rel="icon" href = "C:\Users\Bablu\Downloads\monitor.png"></link>
+		<title>Practise phone number</title>
+	</head>
+	<body>
+		<form>
+			<table>
+				<tr>
+					<td>Phone number:<input type="text"required placeholder="Phone number" pattern="[0-9]{10}" title="ten numbers only"></td>
+				</tr>
+
+				<tr>	
+					<td>Passward:<input type="Passward" Placeholder="Passward "></td>
+				</tr>
+
+				<tr>
+					<td>YEAR OF PASS:<input type="date"></td>
+				</tr>
+				
+				<tr>
+					<td>PASS TYPE:<input type="radio" value=>Regular<input type="radio">Supply</td>
+				</tr>
+
+				<tr>
+					<td>CLICK:<input type="checkbox"></td>
+				</tr>
+
+				<tr>
+					<td><input type="submit" value=submit></td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</html>

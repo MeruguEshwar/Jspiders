@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>Document</title>
+	</head>
+	<body>
+
+	 <form>
+
+		JNTU RESULTS
+		Enter H.T No:<input type="text" required placeholder="Number" pattern="[0-9] {10}"><br><br>
+
+		<input type="submit" value="login">
+
+	</form>
+	</body>
+</html>

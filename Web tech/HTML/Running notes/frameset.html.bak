@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>frameset tag</title>
+	</head>
+	<body>
+			<frameset rows="50%,50%">
+					<frame src="C:\Users\Bablu\Downloads\brown-and-green-mountain-view-photo-842711.jpg">qwer</frame>	
+					<frame src=" ">xyz</frame>
+			</frameset>
+	</body>
+</html>

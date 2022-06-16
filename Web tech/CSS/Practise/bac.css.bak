@@ -1,0 +1,29 @@
+div{
+	height:90px;
+	background-color:black
+	}
+
+a{
+	font-size:30px;
+	text-decoration:none;
+	padding:25px 50px 20px 50px;
+	color:white;
+	float:left
+}
+
+#ig{ float:right}
+
+input { 
+		padding:10px;
+		font-size:25px;
+		margin:15px 0px 15px 40px
+		}
+
+body{ 
+		background-image:url('nani.jpg');
+		background-size:cover
+	}
+
+a:hover{background-color:grey}
+
+	

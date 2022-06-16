@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title>Document</title>
+		<link rel="stylesheet" href="frt.css"></link>
+	</head>
+
+	<body>
+		<h1>
+			<a href="sample.html">sample text</a>
+			<a href="First.html">First text</a>
+		</h1>
+
+			<a href="second.html">second text</a>
+			<a href="third.html">third text</a>
+			<a href="fourth.html">fourth text</a>
+
+	</body>
+</html>

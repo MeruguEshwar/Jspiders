@@ -1,0 +1,15 @@
+<html>
+		<head>
+			<link rel="icon" href = "C:\Users\Bablu\Desktop\Files\Jspiders\Web tech\HTML\favicon-32x32.png">
+			<title>Facebook login</title>
+		</head>
+
+
+		<body>
+			<a href="www.naniworld.com">
+			<img src="C:\Users\Bablu\Desktop\Files\Jspiders\Web tech\HTML\favicon-32x32.png" height="100">
+			</a><br><br>
+			<input type="text" placeholder="number">	
+			<input type ="submit" value ="sign up">
+		</body>
+</html>

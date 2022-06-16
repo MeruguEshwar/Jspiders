@@ -1,0 +1,27 @@
+<html>
+	<head>
+		 <title>Document</title>
+	</head>
+	<body>
+			Create an<strong> account</strong>
+			<br><br>
+			<strong><em>Create an account</em></strong>
+			<br><br>
+			<h1><em>Create an account</em></h1>
+			<br><br>
+			<mark>Create an acccount</mark>
+			<br><br>
+			<del>create an ac</del>
+			<br><br>
+			<pre>create an ac</pre>
+			<br><br>
+			E=MC2---->E=MC<sup>2</sup>
+			<br><br>
+			H2SO4---->H<sub>2</sub>SO<sub>4</sub>
+			<br><br>
+			create an <ins> account</ins>
+			<br><br>
+			<marquee direction="right" scrollamount="5">Create an ac
+			</marquee>
+	</body>
+</html>

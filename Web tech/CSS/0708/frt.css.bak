@@ -1,0 +1,7 @@
+table,tr,td {border:2px solid black;
+			border-collapse:collapse;
+			padding:20px;
+			margin:40px
+			}
+#anything{font-size:40px;
+			font-weight:50px}

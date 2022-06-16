@@ -1,0 +1,13 @@
+#monday{
+		height:50px;
+		width:500px;
+		background-color:orange
+	}
+.weekday{
+		height:300px;
+		width:500px;
+		background-color:yellow
+	}
+div{
+		color:blue
+	}

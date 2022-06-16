@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+ <head>
+	<title>Document</title>
+	<style>
+			<h3> {color:red}
+	</style>
+ </head>
+ <body>
+	 <h1>CSS[Cascading Style Sheets]</h1>
+	 <h3><em>[* fields are mandtory]</em></h3>
+ </body>
+</html>

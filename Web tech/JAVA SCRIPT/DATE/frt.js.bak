@@ -1,0 +1,6 @@
+function some1()
+{
+	var txt = Alert("hlo nani")
+	document.write(txt)
+}
+

@@ -1,0 +1,23 @@
+h1 { color:green ;
+	 padding-left:100px	}
+
+h3 {	font-size:40px;
+		padding-left:100px	}
+
+	p5{
+
+	}
+
+
+	p6{
+			padding-left:100px
+
+	}
+
+	a
+	{
+	 color:black
+	}
+
+
+tr,td,table{ padding : 10px 40px 5px 60px}

@@ -1,0 +1,28 @@
+h1{
+		text-align:center;
+		text-decoration:underline;
+		color:Blue
+	}
+h2{
+		text-align:center;
+		text-decoration:line-through
+	}
+
+h3{
+		text-align:center;
+		text-shadow:6px 10px blue;
+		color:red
+	}
+
+h4{
+		text-align:center;
+		text-transform:lowercase;
+		color:red;
+		font-size:20px
+	}
+
+p{
+	text-indent:100px;
+	letter-spacing:1px;
+	word-spacing:5px
+}
